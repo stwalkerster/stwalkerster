@@ -11,5 +11,4 @@ I'm the primary maintainer of three open-source projects - [Helpmebot](https://h
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stwalkerster&count_private=true&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwalkerster&hide=javascript,visual+basic,c%2b%2b&langs_count=6&layout=compact&theme=dark" />
 </p>
