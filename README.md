@@ -7,8 +7,8 @@ I'm the primary maintainer of three open-source projects - [Helpmebot](https://h
 * Email: simon -AT- stwalkerster.co.uk
 * Keybase: https://keybase.io/stwalkerster
 
-### Stats
+<!--### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stwalkerster&count_private=true&theme=dark&show_icons=true" />
-</p>
+</p>-->
